@@ -14,7 +14,5 @@ server_scripts{
 }
 
 client_script {
-	"lib/Proxy.lua",
-	"lib/Tunnel.lua",
 	"client.lua"
 }
